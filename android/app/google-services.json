@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992665464710",
+    "project_id": "skripsikuymelali",
+    "storage_bucket": "skripsikuymelali.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992665464710:android:f992352e95924a5bcd0607",
+        "android_client_info": {
+          "package_name": "com.company.kuyMelali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXhY5QQlooFvgZNA6a4AaTiG6LEsjGJPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992665464710:android:048f6a76c1ae33dacd0607",
+        "android_client_info": {
+          "package_name": "com.example.skripsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXhY5QQlooFvgZNA6a4AaTiG6LEsjGJPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
